@@ -7,8 +7,8 @@ This repository contains the implementation of a lightweight image processing sy
 ```
 /greenhouse-image-processing
 ├─ code/                  # Python scripts
-├─ datasets/              # Images (placeholders)
-├─ models/                # Trained CNN model placeholder
+├─ datasets/              # Images [(https://github.com/gabrieldgf4/PlantVillage-Dataset) and (https://github.com/sizhuoli/greenhouse_classification)]
+├─ models/                # Trained CNN model
 ├─ results/               # Evaluation outputs
 ├─ requirements.txt       # Python dependencies
 └─ README.md
